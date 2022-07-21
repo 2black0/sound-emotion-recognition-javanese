@@ -1,0 +1,23 @@
+aa-bb-cc-dd.wav
+
+aa -> Aktor 01-10
+bb -> Kalimat 01-04
+cc -> Ekspresi 01-06
+dd -> Pengulanan 01-07
+
+catatan:
+Eskpresi
+01 - Neutral / Biasa
+02 - Sadness / Susah
+03 - Happiness / Seneng
+04 - Surprise / Kaget
+05 - Fear / Wedi
+06 - Anger / Ness
+
+contoh:
+01-02-03-04.wav
+
+01 -> Aktor 01
+02 -> Kalimat ke-02
+03 -> Ekspresi ke-03
+04 -> Pengulanan ke-04
