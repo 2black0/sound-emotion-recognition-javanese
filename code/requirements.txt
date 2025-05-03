@@ -1,0 +1,11 @@
+glob
+librosa
+matplotlib
+numpy
+optuna
+os
+pandas
+pickle
+re
+scikit-learn
+soundfile
